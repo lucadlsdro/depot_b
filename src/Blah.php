@@ -11,3 +11,4 @@ final class Blah
 }
 
 Test 1
+Test 2
