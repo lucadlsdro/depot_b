@@ -9,3 +9,5 @@ final class Blah
     }
 
 }
+
+Test 1
